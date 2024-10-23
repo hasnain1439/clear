@@ -1,0 +1,343 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .nav-link ul li{
+        padding: 5px 10px;
+        margin-right: 0;
+    }
+    .nav-link ul li a{
+        font-size: 14px;
+    }
+    .nav-link ul li a i{
+        font-size: 14px;
+    }
+    h1{
+        font-size: 45px;
+    }h2{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 25px;
+        color: white;
+    }
+    h5{
+        font-size: 17px;
+        color: white;
+    }
+    h6{
+        font-size: 13px;
+    }
+    p{
+        font-size: 15px;
+        line-height: 17px;
+    }
+    span{
+        font-size: 16px;
+    }
+    .b-btn{
+        padding: 10px 20px;
+        font-size: 12px;
+    }
+    .card-c{
+        flex-basis: 40%;
+    }
+    .progress{
+        justify-content: center;
+    }
+    .progress-l{
+        flex-basis: 70%;
+    }
+    .progress-r{
+        flex-basis: 70%;
+    }
+    .duct-item{
+        flex-basis: 31%;
+    }
+    .footer-item{
+        justify-content: center;
+    }
+    .item-c{
+        flex-basis: 40%;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .nav-link{
+        display: none;
+    }
+    .icons{
+        display: block ;
+    }
+    h1{
+        font-size: 35px;
+    }h2{
+        font-size: 23px;
+    }
+    h3{
+        font-size: 17px;
+    }
+    h4{
+        font-size: 19px;
+    }
+    h5{
+        font-size: 12px;
+    }
+    h6{
+        font-size: 13px;
+    }
+    p{
+        font-size: 11px;
+        line-height: 17px;
+    }
+    span{
+        font-size: 12px;
+    }
+    .b-btn{
+        padding: 5px 10px;
+        font-size: 8px;
+    }
+    .w-btn{
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+    .about{
+        justify-content: center !important;
+    }
+    .about-l{
+        flex-basis: 80%;
+    }
+    .about-r{
+        flex-basis: 80%;
+    }
+    .front-c{
+        width: 40%;
+    }
+    .front-c img{
+        width: 50%;
+    }
+    .card-c{
+        flex-basis: 70%;
+    }
+    .progress{
+        justify-content: center !important;
+    }
+    .progress-l{
+        flex-basis: 70%;
+    }
+    .progress-r{
+        flex-basis: 70%;
+        justify-content: center;
+    }
+    .highlight{
+        justify-content: center !important;
+    }
+    .circle{
+        flex-basis: 50%;
+        padding: 7% 0;
+    }
+    .member{
+        margin-top: -10%;
+    }
+    .plan-card{
+        justify-content: center;
+    }
+    .plan-detail{
+        flex-basis: 60%;
+        margin-bottom: 30px;
+    }
+    .product-img{
+        justify-content: center;
+    }
+    .duct-item{
+        flex-basis: 45%;
+    }
+    .footer-item{
+        justify-content: center;
+    }
+    .item-c{
+        flex-basis: 50%;
+    }
+    .footer-icon i{
+        padding: 10px;
+        font-size: 15px;
+    }   
+    .cards{
+        justify-content: center;
+    }
+    .form1{
+        flex-basis: 70%;
+        margin-bottom: 30px;
+    }
+    .con-info{
+        flex-basis: 70%;
+    }
+    .blog{
+        justify-content: center;
+    }
+    .blog-img{
+        flex-basis: 50%;
+    }
+    .blog-t{
+        flex-basis: 80%;
+    }
+    .blog-t span{
+        font-size: 10px;
+    }
+    .blog-t span i{
+        font-size: 10px !important;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 481px) {
+    .nav-link{
+        display: none;
+    }
+    .icons{
+        display: block ;
+    }
+    h1{
+        font-size: 28px;
+        margin-bottom: 5px;
+    }h2{
+        font-size: 19px;
+        margin-bottom: 5px;
+    }
+    h3{
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    h4{
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    h5{
+        font-size: 9px;
+        margin-bottom: 10px;
+    }
+    h6{
+        font-size: 8px;
+    }
+    p{
+        font-size: 8px;
+        line-height: 13px;
+        margin-bottom: 5px;
+    }
+    span{
+        font-size: 9px;
+        margin-bottom: 5px;
+    }
+    .b-btn{
+        padding: 4px 8px;
+        font-size: 7px;
+    }
+    .w-btn{
+        padding: 5px 10px;
+        font-size: 9px;
+    }
+    .main-d{
+        margin-bottom: 20px;
+    }
+    .body-d p{
+        margin-top: 5px;
+    }
+    .about{
+        justify-content: center !important;
+    }
+    .about-l{
+        flex-basis: 90%;
+    }
+    .about-l img{
+        width: 80%;
+    }
+    .about-r{
+        flex-basis: 80%;
+    }
+    .front-c{
+        width: 40%;
+    }
+    .front-c img{
+        width: 50%;
+    }
+    .card-c{
+        flex-basis: 70%;
+    }
+    .progress{
+        justify-content: center !important;
+    }
+    .progress-l{
+        flex-basis: 70%;
+    }
+    .progress-r{
+        flex-basis: 70%;
+        justify-content: center;
+    }
+    .highlight{
+        justify-content: center !important;
+    }
+    .circle{
+        flex-basis: 70%;
+        padding: 15% 0;
+    }
+    .member{
+        margin-top: -10%;
+    }
+    .plan-card{
+        justify-content: center;
+    }
+    .plan-detail{
+        flex-basis: 60%;
+        margin-bottom: 30px;
+    }
+    .product-img{
+        justify-content: center;
+    }
+    .duct-item{
+        flex-basis: 65%;
+    }
+    .footer-item{
+        justify-content: center;
+    }
+    .item-c{
+        flex-basis: 50%;
+    }
+    .footer-icon i{
+        padding: 7px;
+        font-size: 10px;
+    }   
+    .logo span{
+        font-size: 30px;
+    }
+    .cards{
+        justify-content: center;
+    }
+    .form1{
+        flex-basis: 70%;
+        margin-bottom: 30px;
+    }
+    .form1 input{
+        height: 35px;
+    }
+    .form1 label{
+        font-size: 15px;
+    }
+    .con-info{
+        display: none;
+    }
+    .blog{
+        justify-content: center;
+    }
+    .blog-img{
+        flex-basis: 70%;
+    }
+    .blog-t{
+        flex-basis: 80%;
+    }
+    .blog-t span{
+        font-size: 5px;
+    }
+    .blog-t span i{
+        font-size: 5px !important;
+    }
+    .close{
+        display: none;
+    }
+}
